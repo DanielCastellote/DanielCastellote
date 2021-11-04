@@ -1,16 +1,39 @@
-### Hi there 👋
+<img align="center" width="500px" heigth="500px" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
 
-<!--
-**DanielCastellote/DanielCastellote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TRABAJADOR Y APASIONADO POR APRENDER COSAS NUEVAS 💪
 
-Here are some ideas to get you started:
+- Estudiando como desarrollador en 2ºDAM en el [IESLUISVIVES](http://iesluisvives.es/)
+- Con ganas de mejorar y de ser parte de algo grande 😄
+- Fanático del deporte en especial futbol y F1 🏎️ y de los videojuegos 🎮
+- Me considero una persona simpática, hábil y un buen compañero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### TECNOLOGIAS USADAS 🧰
+<img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+
+<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+
+<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+
+<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+
+<img align="left" alt="html" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+
+<img align="left" alt="html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg">
+
+<br/>
+
+Entre mis repositorios encontrareis trabajos y ejercicios de clase, podreis aportar lo que querais si lo deseais.
+<br/>
+## UN SALUDO 👋
+
+
+
+
+
+
+
+
+
+
+
+
