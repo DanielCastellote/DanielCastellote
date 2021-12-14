@@ -20,6 +20,16 @@
 
 <img align="left" alt="html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg">
 
+<img align="left" alt="html" width="44px" src="https://pandemoniodigital.es/assets/images/top-plugins-intellij/logo-intellij.png">
+
+<img align="left" alt="html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+
+<img align="left" alt="html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+
+<img align="left" alt="html" width="44px" src="https://rincondelatecnologia.com/wp-content/uploads/2018/10/atom.jpg">
+
+<img align="left" alt="html" width="44px" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/6/drawio.png">
+
 <br/>
 
 
