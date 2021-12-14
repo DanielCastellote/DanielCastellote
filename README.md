@@ -26,7 +26,7 @@
 
 <img align="left" alt="html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 
-<img align="left" alt="html" width="44px" src="https://rincondelatecnologia.com/wp-content/uploads/2018/10/atom.jpg">
+<img align="left" alt="html" width="44px" src="https://img2.freepng.es/20180410/tew/kisspng-atom-computer-icons-text-editor-electron-macos-github-5accac2c29bf89.107939971523362860171.jpg">
 
 <img align="left" alt="html" width="44px" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/6/drawio.png">
 
