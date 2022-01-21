@@ -30,6 +30,12 @@
 
 <img align="left" alt="html" width="44px" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/6/drawio.png">
 
+<img align="left" alt="html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
+
+<img align="left" alt="html" width="44px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/mongodb.png">
+
+
+
 <br/>
 <br/>
 
