@@ -46,7 +46,7 @@
 Entre mis repositorios encontrareis trabajos y ejercicios de clase, podreis aportar lo que querais si lo deseais.
 <br/>
 ## UN SALUDO 👋
-
+![](https://komarev.com/ghpvc/?username=DanielCastellote&color=1319b0&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 
 
